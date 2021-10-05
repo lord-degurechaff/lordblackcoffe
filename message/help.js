@@ -440,8 +440,8 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
 ❏ NAMA : *Black Coffe*
 ❏ API : @6289518320543
-❏ OWNER : *YUDHA PERDANA*
-❏ API : *@6282W87486762*
+❏ OWNER : *Black Coffe*
+❏ API : *@6289518320543*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
